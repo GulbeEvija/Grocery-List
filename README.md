@@ -47,12 +47,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-![image](https://github.com/GulbeEvija/Grocery-List/assets/135064568/d95e8783-30b6-4e65-96a6-21f47dcdae83)
+
+### Built With
+
+* [![React][React.js]][React-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 # Getting Started with Create React App
@@ -127,8 +133,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
+<!-- CONTACT -->
+## Contact
+
+Your Name - Evija Gulbe - evija.gulbe@outlook.com
+
+Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Project provided by CanSheCode 
+website of Alla
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+![image](https://github.com/GulbeEvija/Grocery-List/assets/135064568/58082422-190a-4f16-b1e0-cf2339e71851)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: images/screenshot.png![image](https://github.com/GulbeEvija/Grocery-List/assets/135064568/d3f83e31-ee53-4527-ba62-9ae6f351f2a4)
+[product-screenshot]: groceryListImage.png
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+
 
