@@ -44,7 +44,7 @@
 * In this app users can add and cross out a task, as well as delete the whole list of tasks.
 * To build this app I used 3 attributes - onChange, onClick and onSubmit.
 * "Each child should have a unique key prop" was the challenge I ran into. Therefore when using map(), we also need to add key.
-* I the future I hope add a button where users can edit a task!
+* I the future I hope to add a button where users can edit a task!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
