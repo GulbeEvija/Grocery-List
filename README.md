@@ -41,10 +41,10 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-* In this app users can add and cross out a task, as well as delete the whole list of tasks.
+* In this app users can add and cross out an item, as well as delete the whole list of items.
 * To build this app I used 3 attributes - onChange, onClick and onSubmit.
 * "Each child should have a unique key prop" was the challenge I ran into. Therefore when using map(), we also need to add key.
-* In the future I hope to add a button where users can edit a task!
+* In the future I hope to add a button where users can edit an item!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +82,7 @@ If you have any suggestions that would make this project better, please send me 
 
 ## Contact
 
-Evija Gulbe - [LinkedIn](https://www.linkedin.com/in/evija-gulbe-534673240/) - evija.gulbe@outlook.com
+Evija Gulbe - [LinkedIn](https://www.linkedin.com/in/evija-gulbe-534673240/)
 
 Project Link: [https://github.com/GulbeEvija/Grocery-List](https://github.com/GulbeEvija/Grocery-List/)
 
