@@ -3,13 +3,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/GulbeEvija/Grocery-List.git">
-    <img src="src/shopping.jpg" alt="Logo" width="150" height="150">
+    <img src="src/shopping.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Grocery list</h3>
 
   <p align="center">
-    App built with React using props and class components.
+    App built with React using class components.
     <br />
     <br />
     <a href="https://funny-tulumba-cf3876.netlify.app/">View project live on Netlify</a>
@@ -41,10 +41,12 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-Here's a blank template to get started: 
+* In this app users can add and cross out a task, as well as delete the whole list of tasks.
+* To build this app I used 3 attributes - onChange, onClick and onSubmit.
+* "Each child should have a unique key prop" was a challenge I wan into. Therefore when using map(), we also need to add key.
+* I the future I hope add a button where users can edit a task!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -54,22 +56,14 @@ Here's a blank template to get started:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ## Getting Started
-
 `npm start`
-
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.\
+The page will reload when you make changes.
 
 
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
