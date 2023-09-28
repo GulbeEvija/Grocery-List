@@ -84,7 +84,7 @@ If you have any suggestions that would make this project better, please send me 
 
 Evija Gulbe - [LinkedIn](https://www.linkedin.com/in/evija-gulbe-534673240/) - evija.gulbe@outlook.com
 
-Project Link: [https://github.com/GulbeEvija/Countdown-Input-Timer/](https://github.com/GulbeEvija/Countdown-Input-Timer/)
+Project Link: [https://github.com/GulbeEvija/Grocery-List](https://github.com/GulbeEvija/Grocery-List/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
